@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "2dff3ac2579758f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc948a9af97daee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f74c93d34998e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/notes/AWS/AWS Virtual Private Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Virtual Private Cloud"
+            }
+          },
+          {
+            "id": "2f6ece82384a1a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/notes/AWS/Other services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Other services"
+            }
+          },
+          {
+            "id": "3d6f0ec4fd644f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/English/vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vocabulary"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1858c56801682ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "32784fea813d857e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8d4bf489ed45e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c71b4c3a8c793e03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ee82f2d6453db9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "35f57902a08ba403",
+    "type": "split",
+    "children": [
+      {
+        "id": "085945ad7932372b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c827742ce997010f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3cf74d945440f009",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "languages/Deutsch/Wortschatz/DevOps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из DevOps"
+            }
+          },
+          {
+            "id": "dcace30f14396904",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e8188a9b244ab099",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "languages/Deutsch/Wortschatz/DevOps.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура DevOps"
+            }
+          },
+          {
+            "id": "0892b7c2eebb471e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "00725e7c72c28641",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2f6ece82384a1a0b",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "internship/notes/AWS/Other services.md",
+    "internship/notes/AWS/Без названия",
+    "languages/English/vocabulary.md",
+    "internship/notes/AWS/AWS Virtual Private Cloud.md",
+    "cache/Pasted image 20250728103742.png",
+    "cache/Pasted image 20250728103449.png",
+    "internship/notes/AWS/Disaster Recovery & Migrations.md",
+    "cache/Pasted image 20250724132326.png",
+    "internship/internship-board.md",
+    "cache/Pasted image 20250724112137.png",
+    "cache/Pasted image 20250724105813.png",
+    "cache/Pasted image 20250723182253.png",
+    "cache/Pasted image 20250723181324.png",
+    "cache/Pasted image 20250723180955.png",
+    "internship/notes/AWS/AWS Security & Encryption.md",
+    "cache/Pasted image 20250723104822.png",
+    "cache/Pasted image 20250723104315.png",
+    "management/Вопросы.md",
+    "internship/notes/AWS/AWS Organizations + IAM.md",
+    "languages/Deutsch/Wortschatz/nützliche Links.md",
+    "management/management.md",
+    "().md",
+    "Excalidraw/Drawing 2025-07-14 12.24.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-14 12.25.00.excalidraw.md",
+    "Excalidraw",
+    "languages/English/grammar.md",
+    "languages/English/english-board.md",
+    "languages/Deutsch/Wortschatz/DevOps.md",
+    "languages/Deutsch/Grammatik.md",
+    "languages/Deutsch/Deutsch-board.md",
+    "languages/Deutsch/Wortschatz/Wörter.md",
+    "2025-07-13.md",
+    "Без названия.canvas",
+    "management",
+    "internship/notes/AWS",
+    "languages/Deutsch/Wortschatz",
+    "Excalidraw/Drawing 2025-07-11 18.15.06.excalidraw.md",
+    "internship/resources",
+    "languages/Deutsch",
+    "languages/English",
+    "languages",
+    "internship/notes",
+    "instructions/Это баааза.md",
+    "instructions/Obsidian Base Settings.md",
+    "Untitled 2.canvas",
+    "Welcome.md",
+    "2025-07-11.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
