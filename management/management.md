@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## planning
 
-- [ ] Roman Markov - Commit
 
 
 ## in progress
@@ -15,6 +14,7 @@ kanban-plugin: board
 
 ## done
 
+- [ ] Roman Markov - Commit
 
 
 ## blocked

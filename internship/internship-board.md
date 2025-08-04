@@ -7,6 +7,7 @@ kanban-plugin: board
 ## planning
 
 - [ ] AWS - Other Services
+- [ ] terraform certificate
 
 
 ## in progress
